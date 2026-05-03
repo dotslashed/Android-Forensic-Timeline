@@ -23,24 +23,18 @@ git clone https://github.com/dotslashed/Android-Forensic-Timeline/
 **Windows (PowerShell)**
 ```powershell
 cd Android-Forensic-Timeline
-python -m venv venv
-venv\Scripts\Activate.ps1
 python android_timeline.py
 ```
 
 **Windows (Command Prompt)**
 ```cmd
 cd Android-Forensic-Timeline
-python -m venv venv
-venv\Scripts\activate.bat
 python android_timeline.py
 ```
 
 **Linux / macOS**
 ```bash
 cd Android-Forensic-Timeline
-python3 -m venv venv
-source venv/bin/activate
 python3 android_timeline.py
 ```
 
