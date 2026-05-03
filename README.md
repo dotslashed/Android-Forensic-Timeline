@@ -48,4 +48,4 @@ All databases are opened read-only - nothing is modified on disk. Timestamps and
 
 ## Screenshot
 
-![Screenshot](overview.jpg)
+![Screenshot](overview.JPG)
