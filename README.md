@@ -45,3 +45,7 @@ python3 android_timeline.py
 Load a folder of `.db` files or a `.zip` archive from your extraction tool. The tool scans everything, builds the timeline, and lets you filter by app, date range, or keyword. Double-click any row to inspect the full database record. Export to CSV or JSON when done.
 
 All databases are opened read-only - nothing is modified on disk. Timestamps and content extracted by the tool should always be manually verified before being used in any formal report or investigation.
+
+## Screenshot
+
+![Screenshot](overview.jpg)
